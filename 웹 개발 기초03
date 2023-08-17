@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>0817</title>
+</head>
+
+<body>
+    <div>
+        <h2>소제목</h2>
+        <p>
+            본문<br>
+            <em>본문</em><br>
+            <strong>본문</strong><br>
+            본문<br>
+        </p>
+    </div>
+
+    <!-- ul : 점 - 순서가 없는 -->
+    <!-- ol : 숫자 - 순서가 있는 -->
+    <div>
+        <h2>오늘 먹을 간식</h2>
+        <ol>
+            <li><a href="https://www.naver.com/" translate="_blank" title="ㅋㅋㅋㅋ">초코파이</a></li>
+            <li>펩시콜라</li>
+            <li>옥수수</li>
+        </ol>
+    </div>
+    <div>
+        <a href="https://www.naver.com/">
+            <img src="123.jfif" alt="kpc" title="한국생산성본부" style="width: 300px; text-align: center;">
+        </a>
+    </div>
+
+    <form action="a.html">
+        아이디 : <input type="text" name="">
+        <br>
+        비밀번호 : <input type="password" name="">
+        <br>
+        <input type="submit" value="로그인">
+    </form>
+</body>
+
+
+
+
+
+
+
+      
+</html>

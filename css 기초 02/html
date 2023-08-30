@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title> css 두번째 시간</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <h1>CSS 두번째 시간</h1>
+
+    <div class="didiv">
+        <h2>ul-li 태그</h2>
+        <ul>
+            <li><a href="#"></a>HTML</li>
+            <li>CSS</li>
+            <li>JAVASCRIPT</li>
+        </ul>
+
+    </div>
+    <div class="didiv">
+        <h2>이미지 태그</h2>
+        <img src="다운로드.jfif" alt="시에스타">
+    </div>
+
+    <div class="didiv">
+
+        <h2>문단 태그</h2>
+        <h3>애국가</h3>
+        <p>
+            동해물과 백두산이 마르고 닳도록<br>
+            하느님이 보우하사 우리 나라 만세
+        </p>
+    </div>
+</body>
+
+</html>

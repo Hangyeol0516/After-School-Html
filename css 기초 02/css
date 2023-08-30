@@ -1,0 +1,20 @@
+* {
+    font-family: "함초롬바탕";
+    background-color: aqua;
+}
+
+img {
+    width: 300px;
+}
+
+p {
+    width: 300px;
+}
+
+.didiv>h2 {
+    background-color: pink;
+}
+
+.didiv h2 {
+    background-color: white;
+}

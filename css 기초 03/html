@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>0831</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+
+    <img src="다운로드.jfif" alt="">
+    <h1>오등분의 신부</h1>
+
+    <div>
+        <h2 class="kind"> 나카노</h2>
+        <ul class="nakano">
+            <li><a href="https://namu.wiki/w/%EB%82%98%EC%B9%B4%EB%85%B8%20%EC%9D%B4%EC%B9%98%EC%B9%B4">이치카</a></li>
+            <li><a href="https://namu.wiki/w/%EB%82%98%EC%B9%B4%EB%85%B8%20%EB%8B%88%EB%85%B8">니노</a></li>
+            <li><a href="https://namu.wiki/w/%EB%82%98%EC%B9%B4%EB%85%B8%20%EB%AF%B8%EC%BF%A0">미쿠</a></li>
+            <li><a href="https://namu.wiki/w/%EB%82%98%EC%B9%B4%EB%85%B8%20%EC%9A%94%EC%B8%A0%EB%B0%94">요츠바</a></li>
+            <li><a href="https://namu.wiki/w/%EB%82%98%EC%B9%B4%EB%85%B8%20%EC%9D%B4%EC%B8%A0%ED%82%A4">이츠키</a></li>
+        </ul>
+
+    </div>
+
+    <div>
+        <h2 class="kind">Lorem Ipsum</h2>
+        <p>
+            Lorem ipsum dolor sit amet consectetur
+            adipisicing elit. Eveniet esse earum impedit! Nobis, minus vel error
+            sint deserunt, obcaecati, omnis esse nisi suscipit quia officia similique aliquam eveniet perferendis
+            veritatis.
+        </p>
+    </div>
+
+</body>
+
+</html>

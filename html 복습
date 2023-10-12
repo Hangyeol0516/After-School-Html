@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <title>20231012</title>
+</head>
+
+
+<body>
+    <a href="#">
+        <h2>복습!</h2>
+    </a>
+
+    <p>문단</p>
+    <!-- Unordered 정렬되지 않은 Llist -> list 목록 -->
+    <ul>
+        <li>리스트1</li>
+        <li>리스트2</li>
+        <li>리스트3</li>
+    </ul>
+
+    <div>
+        <a href="#">
+            <div><img
+                    src="https://i.namu.wiki/i/ElRjn8cqzEFDS8OJfyi0C9RcwWq9uPZdvJlkofef2kq3ZQo5RtI8rC_n4IIosmi6OOUiVwQX_RDvDoN8whUOhg.webp"
+                    alt=""></div>
+        </a>
+        <a href="#">
+            <div>박스2</div>
+        </a>
+        <a href="#">
+            <div>박스3</div>
+        </a>
+    </div>
+
+</body>
+
+</html>

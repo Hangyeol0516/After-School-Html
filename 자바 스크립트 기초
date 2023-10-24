@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <script>
+
+        // alert(); 팝업
+        // document.write(); 일반 출력
+
+        // var 지현
+
+        // if (prompt("입력") == "1") {
+        //     지현 = "<h1>못생긴 지현</h1>"
+        // } else {
+        //     지현 = "<h2>예쁜 지현</h2>"
+        // }
+
+        // ------------------
+
+        // document.write(지현);
+
+        // var a = true;
+        // var b = false;
+        // var c = 10 > 5; //true
+        // var d = Boolean(null); //false
+
+        // document.write(a, "<br>");
+        // document.write(b, "<br>");
+        // document.write(c, "<br>");
+        // document.write(d, "<br>");
+
+        // ------------------
+
+        var num1 = prompt("num1");
+        var num2 = prompt("num2");
+        var result;
+        result = Number(num1) + Number(num2);
+        document.write(result, "<br>");// 17
+        result = num1 - num2;
+        document.write(result, "<br>");// 13
+        result = num1 * num2;
+        document.write(result, "<br>");// 30
+        result = num1 / num2;
+        document.write(result, "<br>");// 7.5
+        result = num1 % num2;
+        document.write(result, "<br>");// 1
+
+    </script>
+
+</body>
+
+</html>

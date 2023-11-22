@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>표준 내장 객체</title>
+</head>
+
+<body>
+    <script>
+        // let a = "안녕하세요";
+
+        // a.replace("하세요", "하십니까")
+
+        // // alert(a);
+
+        // let b = 3.141592;
+        // document.write(Math.round(b) + '<br>');
+
+        // let rd = Math.round(Math.random() * 10);
+        // document.write(rd);
+
+    </script>
+
+    <h2>DOM 객체 - get 메서드</h2>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+    </ul>
+    <p id="text">
+        <span style="color: red;">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rerum quos, nemo aliquid odio esse error omnis a
+            hic
+            officiis perspiciatis iste neque animi suscipit voluptates molestiae labore non possimus sed.
+        </span>
+    </p>
+</body>
+
+</html>
